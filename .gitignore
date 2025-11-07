@@ -1,0 +1,13 @@
+# Virtual Environment
+.venv/
+
+# Environment variables
+.env
+
+# IDE and cache files
+__pycache__/
+
+# Data files
+*.jsonl
+
+*.db
